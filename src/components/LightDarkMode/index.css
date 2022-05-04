@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.light-mode {
+  background-color: #ffffff;
+}
+.dark-mode {
+  background-color: #000000;
+  color: white;
+}
+.container {
+  text-align: center;
+}
